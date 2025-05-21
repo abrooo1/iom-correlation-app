@@ -1,0 +1,10 @@
+/data/
+__pycache__
+*.pyc
+*.log
+*.env
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+iom_logo.svg
